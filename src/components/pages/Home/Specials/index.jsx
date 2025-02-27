@@ -34,8 +34,8 @@ const meals = [
 
 const Specials = () => {
   return (
-    <section className="container grid week-specials">
-      <div className="week-specials-header">
+    <section className="container grid specials">
+      <div className="specials-header">
         <h2>This week's specials!</h2>
         <Link className="button-primary" to="">
           Online Menu

@@ -8,9 +8,9 @@ import restaurantImage from "../../../../assets/restaurant.png";
 
 const Hero = () => {
   return (
-    <section className="hero">
+    <section className="hero-section">
       <div className="container grid">
-        <div className="hero-information">
+        <div className="hero-info">
           <h1>Little Lemon</h1>
           <h2>Pakistan</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
