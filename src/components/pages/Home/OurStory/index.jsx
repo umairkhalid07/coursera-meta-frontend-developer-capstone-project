@@ -5,7 +5,7 @@ import chef2Image from "../../../../assets/chef2.jpeg";
 
 const OurStory = () => {
   return (
-    <section className="container grid our-story">
+    <section className="container grid our-story-section">
       <div className="our-story-description">
         <h1>Little Lemon</h1>
         <h2>Pakistan</h2>

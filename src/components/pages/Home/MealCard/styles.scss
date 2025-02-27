@@ -22,7 +22,7 @@
   }
 
   &-header,
-  &-body-footer {
+  &-body {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
@@ -43,7 +43,7 @@
     }
   }
 
-  &-body-footer {
+  &-body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
